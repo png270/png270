@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I’m Siddhi.
-I work across web security, networks, and defensive engineering. You can find my experiments documented here.
+I work across web security, networks, and defensive engineering. You can find my experiments documented here or here - https://png270.github.io/.
 
 <!--
 **png270/png270** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
